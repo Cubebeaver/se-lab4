@@ -1,0 +1,4 @@
+GT4500,1,0,2,0    # new ship  1,2
+TORPEDO,ALL       # both      0,1
+TORPEDO,ALL       # secondary 0,0
+TORPEDO,ALL       # fail      0,0
